@@ -1,5 +1,5 @@
 
-# Data Validation Helpers
+# Form Validation Utils
 
 A lightweight Flutter package providing validation helpers for common inputs like emails, passwords, and phone numbers.
 
@@ -12,7 +12,7 @@ A lightweight Flutter package providing validation helpers for common inputs lik
 
 ## Getting started
 
-To start using `data_validation_helpers`, add it to your `pubspec.yaml` file:
+To start using `form_validation_utils`, add it to your `pubspec.yaml` file:
 
 ![Demo](demo.gif)
 
@@ -20,7 +20,7 @@ To start using `data_validation_helpers`, add it to your `pubspec.yaml` file:
 
 ## Usage
 
-import 'package:data_validation_helpers/data_validation_helpers.dart';
+import 'package:form_validation_utils/form_validation_utils.dart';
 import 'package:flutter/material.dart';
 
 class LoginScreen extends StatelessWidget {
