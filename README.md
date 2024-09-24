@@ -13,6 +13,7 @@ A lightweight Flutter package providing validation helpers for common inputs lik
 ## Getting started
 
 To start using `data_validation_helpers`, add it to your `pubspec.yaml` file:
+
 ![Demo](demo.gif)
 
 ```yaml
