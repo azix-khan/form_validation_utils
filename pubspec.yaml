@@ -22,7 +22,7 @@ flutter:
 
   # To add assets to your package, add an assets section, like this:
   assets:
-    - demo.gif
+    - assets/demo.gif
 
   # To add custom fonts to your package, add a fonts section here,
   # fonts:
