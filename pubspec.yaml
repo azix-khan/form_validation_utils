@@ -1,6 +1,6 @@
 name: form_validation_utils
 description: "A set of helper functions to validate common user input in Flutter apps."
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/azix-khan/form_validation_utils.git
 
 environment:
